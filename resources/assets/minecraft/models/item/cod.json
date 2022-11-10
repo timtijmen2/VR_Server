@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cod"
+	},
+
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "textures/item/cut_cod"
+		}
+	]
+}

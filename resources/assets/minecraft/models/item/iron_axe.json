@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_axe"
+	},
+
+	"overrides": [
+		{"predicate": { "custom_model_data": 1 }, "model": "textures/item/hammer_iron_axe"},
+		
+		{"predicate": { "custom_model_data": 2 }, "model": "textures/item/blood_iron_axe"}
+		
+	]
+}
